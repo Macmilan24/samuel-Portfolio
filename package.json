@@ -1,5 +1,5 @@
 {
-  "name": "esportfolio",
+  "name": "samuelportfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
+   "homepage": "https://Macmilan24.github.io/samuel-Portfolio",
   "dependencies": {
     "@next/font": "^13.4.4",
     "framer-motion": "^10.12.16",
