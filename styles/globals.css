@@ -18,11 +18,11 @@
   color: #f13024;
 }
 
-@layer base {
-  body {
+@layer base{
+  body{
     @apply bg-secondary overflow-hidden leading-relaxed;
   }
-  .page {
+  .page{
     @apply w-full h-screen overflow-hidden;
   }
   .h1 {
